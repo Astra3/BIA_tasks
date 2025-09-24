@@ -1,5 +1,5 @@
 # BIA subject files
-Homerowk files for BIA subject on VŠB. To install, run:
+Homework files for BIA subject on VŠB. To install, run:
 ```bash
 python -m venv venv
 . venv/bin/activate
